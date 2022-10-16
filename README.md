@@ -20,7 +20,7 @@ Aplikasi ini sama seperti aplikasi kalkulator pada umumnya. Aplikasi kalkulator 
 
 4.Cara Menginstal Aplikasi
 Aplikasi dapat diinstal dengan mengakses link berikut : https://expo.dev/artifacts/485367aa-a3fc-4060-aea2-48bd17578369
-Lalu, pilih "Download" untuk mengunduh aplikasi
-Setelah selesai mengunduh, instal aplikasi
+Lalu, pilih "Download" untuk mengunduh aplikasi.
+Setelah selesai mengunduh, instal aplikasi.
 Aplikasi dapat digunakan.
 
